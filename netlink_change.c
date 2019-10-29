@@ -1,3 +1,9 @@
+/*
+ * Author: Cliff Yu
+ * License: GPLv3
+ * 
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
